@@ -47,6 +47,7 @@
 
     </properties>
 
+    <!--测试jenkins-->
     <dependencyManagement>
         <dependencies>
             <!-- Spring Boot Starter Begin -->
