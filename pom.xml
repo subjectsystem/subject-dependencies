@@ -19,6 +19,8 @@
     <!--<inceptionYear>2018-Now</inceptionYear>-->
 
     <properties>
+
+        <skipTests>true</skipTests>
         <!-- Environment Settings -->
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
